@@ -16,7 +16,10 @@ const formReducer = (state, event) => {
     { id: 'Laptops ', displayName: 'Laptop' }, 
     { id: 'Smartphones ', displayName: 'Smartphone' },
     { id: 'Smart TVs', displayName: 'Smart TV' },
-    { id: 'Computadoras ', displayName: 'Computadora' }
+    { id: 'Computadoras', displayName: 'Computadora' },
+    { id: 'Refrigeradoras', displayName: 'Refrigeradora' },
+    { id: 'Microondas', displayName: 'Horno Microondas' },
+    { id: 'Tostadoras', displayName: 'Tostadora' }
   ];
 function App() {
 
